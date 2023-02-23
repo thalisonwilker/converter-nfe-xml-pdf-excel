@@ -1,0 +1,2 @@
+O script executa lendo todos os arquivos XML da pastal ao qual o script se enconta.
+Em sequida cria uma pasta com data e hora atual, e realiza a conversão salvando os arquivos .pdf e xml dentro da pasta criada
